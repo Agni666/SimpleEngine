@@ -1,0 +1,10 @@
+C:\Users\grzegorz\source\repos\Basic engine\Basic engine\bin\Debug\Basic engine.exe.config
+C:\Users\grzegorz\source\repos\Basic engine\Basic engine\bin\Debug\Basic engine.exe
+C:\Users\grzegorz\source\repos\Basic engine\Basic engine\bin\Debug\Basic engine.pdb
+C:\Users\grzegorz\source\repos\Basic engine\Basic engine\obj\Debug\Basic engine.csprojAssemblyReference.cache
+C:\Users\grzegorz\source\repos\Basic engine\Basic engine\obj\Debug\Basic_engine.Form1.resources
+C:\Users\grzegorz\source\repos\Basic engine\Basic engine\obj\Debug\Basic_engine.Properties.Resources.resources
+C:\Users\grzegorz\source\repos\Basic engine\Basic engine\obj\Debug\Basic engine.csproj.GenerateResource.cache
+C:\Users\grzegorz\source\repos\Basic engine\Basic engine\obj\Debug\Basic engine.csproj.CoreCompileInputs.cache
+C:\Users\grzegorz\source\repos\Basic engine\Basic engine\obj\Debug\Basic engine.exe
+C:\Users\grzegorz\source\repos\Basic engine\Basic engine\obj\Debug\Basic engine.pdb
